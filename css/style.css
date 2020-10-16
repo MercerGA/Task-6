@@ -1,0 +1,113 @@
+/* Header */
+.mainheader {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999999999999999999;
+    background-color: white;
+    font-family: 'Poppins';
+}
+.mainlogo {
+    float: left;
+    margin: 10px 120px 26px 140px;
+}
+.navigation {
+    float: left;
+}
+.navtext {
+    float: left;
+    padding-right: 50px;
+    margin: 48px 0px 51px 0px;
+    color: #FF7A00;
+}
+.active {
+    color: #FF7A00;
+    font-size: 22px;
+}
+.clear {
+    clear: both;
+}
+/* Header */
+/* Background Section */
+.background {
+    margin-top: 129px;
+    width: 100%;
+    position: relative;
+}
+.backgroundimage {
+    width: 100%;
+}
+.backgroundtext {
+    position: absolute;
+    top: 104px;
+    left: 700px;
+    color: #FF7A00;;
+    font-size: 22px;
+    font-family: 'Poppins';
+}
+.backgroundtext1 {
+    position: absolute;
+    top: 132px;
+    left: 750px;
+    color: #FF7A00;;
+    font-size: 48px;
+    font-family: 'Playfair Display';
+}
+/* Background Section */
+/* Popular Posts Title */
+.popularposts {
+    color: #FF7A00;
+    font-size: 32px;
+    margin: 83px 0px 83px 172px;
+    font-family: 'Poppins';
+}
+/* Popular Posts Title */
+/* Popular Posts Section */
+.article1 {
+    float: left;
+    margin: 0px 0px 20px 138px;
+    width: 636px;
+}
+.article2 {
+    float: left;
+    width: 636px;
+    margin: 0px 0px 0px 52px;
+}
+.article3 {
+    float: left;
+    width: 636px;
+    margin: 58px 0px 0px 138px;
+}
+.article4 {
+    float: left;
+    width: 636px;
+    margin: 58px 0px 0px 52px;
+}
+.articletitle {
+    font-size: 36px;
+    font-family: 'Playfair Display';
+}
+.active1 {
+    margin-top: 20px;
+}
+.articlecontentmargin {
+    width: 636px;
+    margin-top: 22px;
+}
+.articlecontent {
+    font-size: 16px;
+    color: #7B7B7B;
+    font-family: 'Poppins';
+}
+.readmore {
+    margin-top: 20px;
+    color: #FF7A00;
+    font-family: 'Poppins';
+    display: inline-block;
+}
+.stick {
+    display: inline-block;
+    padding: 10px 0px 3px 20px;
+}
+/* Popular Posts Section */
